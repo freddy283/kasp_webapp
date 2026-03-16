@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://kasp-webapp.onrender.com/:path*"
+    }
+  ]
+}
